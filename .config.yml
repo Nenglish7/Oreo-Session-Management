@@ -1,5 +1,0 @@
-domain: localhost
-path: /
-secure: true
-httponly: true
-sesslength: 120s
