@@ -1,0 +1,4 @@
+domain: localhost
+path: /
+secure: true
+httponly: true
