@@ -12,7 +12,7 @@
         "php72"
     ],
     "description": "Secure by default, extremely fast, and eloquent session management that is designed to protect all your user sessions.",
-    "homepage": "https://github.com/obozaxy/Oreo-Session-Management",
+    "homepage": "https://github.com/obozaxy/oreo",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -32,7 +32,7 @@
         "files": ["./session-boot.php"]
     },
     "require-dev": {
-        "phpunit/phpunit": "^6"
+        "phpunit/phpunit": "^6.5"
     },
     "config": {
         "preferred-install": "dist",
