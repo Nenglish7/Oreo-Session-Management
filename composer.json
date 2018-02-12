@@ -11,7 +11,7 @@
         "oreo",
         "php72"
     ],
-    "description": "Secure by default, extremely fast, and eloquent session management that is designed to protect all your user sessions.",
+    "description": "Secure by default, extremely fast, and eloquent session management.",
     "homepage": "https://github.com/obozaxy/oreo",
     "license": "BSD-3-Clause",
     "authors": [
