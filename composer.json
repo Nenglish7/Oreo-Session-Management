@@ -13,6 +13,7 @@
     ],
     "description": "Secure by default, extremely fast, and eloquent session management.",
     "homepage": "https://github.com/obozaxy/oreo",
+    "time": "2019-08-20 05:00:00",
     "license": "BSD-3-Clause",
     "authors": [
         {
@@ -22,12 +23,19 @@
             "role": "Owner/Developer"
         }
     ],
+    "support": {
+        "email": "nenglish0820@outlook.com",
+        "docs": "https://github.com/obozaxy/oreo/tree/master/docs",
+        "issues": "https://github.com/obozaxy/oreo/issues"
+    }
     "require": {
         "php": "^7.2",
         "obozaxy/twix": "^1",
         "obozaxy/kitkat": "^1",
         "obozaxy/snicker": "^1",
-        "ext-sodium": "*"
+        "ext-mbstring": "*",
+        "ext-sodium": "*",
+        "ext-xml": "*"
     },
     "autoload": {
         "psr-4": {
