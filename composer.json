@@ -12,7 +12,7 @@
         "php72"
     ],
     "description": "Secure by default, extremely fast, and eloquent session management.",
-    "homepage": "https://github.com/obozaxy/oreo",
+    "homepage": "https://github.com/obozaxy/Oreo-Session-Management",
     "time": "2019-08-20 05:00:00",
     "license": "BSD-3-Clause",
     "authors": [
@@ -25,8 +25,8 @@
     ],
     "support": {
         "email": "nenglish0820@outlook.com",
-        "docs": "https://github.com/obozaxy/oreo/tree/master/docs",
-        "issues": "https://github.com/obozaxy/oreo/issues"
+        "docs": "https://github.com/obozaxy/Oreo-Session-Management/tree/master/docs",
+        "issues": "https://github.com/obozaxy/Oreo-Session-Management/issues"
     },
     "require": {
         "php": "^7.2",
