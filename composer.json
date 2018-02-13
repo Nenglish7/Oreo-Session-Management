@@ -24,7 +24,10 @@
     ],
     "require": {
         "php": "^7.2",
-        "ext-sodium"
+        "obozaxy/twix": "^1",
+        "obozaxy/kitkat": "^1",
+        "obozaxy/snicker": "^1",
+        "ext-sodium": "*"
     },
     "autoload": {
         "psr-4": {
