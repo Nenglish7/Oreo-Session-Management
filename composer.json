@@ -35,13 +35,17 @@
         "obozaxy/snicker": "^1",
         "ext-mbstring": "*",
         "ext-sodium": "*",
+        "ext-json": "*",
         "ext-xml": "*"
     },
     "autoload": {
         "psr-4": {
             "Obozaxy\\Session\\": "./src"
         },
-        "files": ["./session-boot.php"]
+        "files": [
+            "./session-config-autoload.php",
+            "./session-initialize.php"
+        ]
     },
     "require-dev": {
         "phpunit/phpunit": "^7"
